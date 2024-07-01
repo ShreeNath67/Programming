@@ -1,0 +1,1 @@
+Program to demonstrate the basic class program to get department, name and salary of an employee.
