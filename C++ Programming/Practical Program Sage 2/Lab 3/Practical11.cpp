@@ -1,0 +1,1 @@
+//Program to add two distances (in feet system) using Struture.
